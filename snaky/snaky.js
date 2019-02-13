@@ -1,0 +1,5 @@
+
+
+//collisionWithRand()
+
+//collisionSelf()
